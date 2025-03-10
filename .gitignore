@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__
+__pycache__/
+.pytest_cache/
+venv
+*.pyc
+.DS_Store
+.DS_Store/
+.env
+.env/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+.cache/
+poetry.lock
+__pypackages__/
+
+# Virtual environments
+.venv
+.cache
+
+
+# Build and distribution
+dist/
+build/
+.aider*
